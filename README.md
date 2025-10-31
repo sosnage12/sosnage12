@@ -1,11 +1,43 @@
-- 👋 Hi, I’m @sosnage12
-- 👀 I’m interested in programming languague
-- 🌱 I’m currently learning software engineering
-  
-- 😄 Pronouns:she/her
-  
+# 👩‍💻 About Me  
 
-<!---
-sosnage12/sosnage12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I'm **Sosna Gemechu**, a passionate and curious **Software Engineering student** from Ethiopia.  
+I love exploring how technology can solve real-world problems and create opportunities for people.  
+
+I’m especially interested in **web development**, **backend systems**, and **digital innovation** that can make daily life easier and more efficient.  
+
+---
+
+## 🌟 What Drives Me  
+- 💡 I love learning new technologies and improving my skills every day.  
+- 🤝 I enjoy collaborating with teams and leading projects that make a difference.  
+- 🌍 I believe technology should be accessible, empowering, and inclusive.  
+
+---
+
+## 🛠️ Skills & Interests  
+
+| Area | Skills |
+|------|---------|
+| Programming | C++, Python, JavaScript |
+| Web Development | HTML, CSS, Node.js, Express.js |
+| Database | MySQL |
+| Tools | Git, GitHub, VS Code |
+| Focus | Problem-solving, teamwork, creativity |
+
+---
+
+## 🎯 Goals  
+- Continue growing as a **developer and innovator**  
+- Learn more about **AI, blockchain, and cybersecurity**  
+- Build solutions that help people in **Ethiopia and beyond**
+
+---
+
+## 📫 Contact Me  
+- ✉️ **gemechusosi@gmail.com**  
+- 🌐 [GitHub: github.com/sosna-gemechu](https://github.com/sosna-gemechu)  
+
+---
+
+> “Technology is the language of the future — and I’m learning to speak it fluently.”  
+> — *Sosna Gemechu* ✨  
