@@ -23,6 +23,24 @@ I’m especially interested in **web development**, **backend systems**, and **d
 | Database | MySQL |
 | Tools | Git, GitHub, VS Code |
 | Focus | Problem-solving, teamwork, creativity |
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,mysql,mongodb,git,github" />
+</p>
+
+### 📘 Description
+
+- **HTML** – for structuring web pages.  
+- **CSS** – for styling and layout design.  
+- **JavaScript (JS)** – the main programming language for web interactivity.  
+- **C** – low-level programming language for systems and embedded development.  
+- **C++** – extension of C with object-oriented features.  
+- **Python** – high-level language for web, data science, AI, and automation.  
+- **MySQL** – relational database management system.  
+- **MongoDB** – NoSQL document-based database.  
+- **Git** – version control system to track code changes.  
+- **GitHub** – code hosting and collaboration platform.
 
 ---
 
