@@ -35,7 +35,7 @@ I’m especially interested in **web development**, **backend systems**, and **d
 
 ## 📫 Contact Me  
 - ✉️ **gemechusosi@gmail.com**  
-- 🌐 [GitHub: github.com/sosna-gemechu](https://github.com/sosna-gemechu)  
+- 🌐 [GitHub: github.com/sosna-gemechu](https://github.com/sosnage12)  
 
 ---
 
